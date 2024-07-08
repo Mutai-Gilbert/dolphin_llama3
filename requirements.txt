@@ -1,0 +1,3 @@
+dolphin_llama3
+requests
+python-dotenv
